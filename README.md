@@ -29,9 +29,9 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## SUPPORT ME
+## Support Me
 
-Our mission at Coding Your Life is to help purpose driven Flutter developers go full-time doing what they love and making an impact through coding. We achieve this with useful Flutter tips and clean UI design apps.
+My mission at Coding Your Life is to help purpose driven Flutter developers go full-time doing what they love and making an impact through coding. We achieve this with useful Flutter tips and clean UI design apps.
 
 SUBSRIBE → https://bit.ly/3ymJhMh
 
@@ -39,12 +39,12 @@ SUBSRIBE → https://bit.ly/3ymJhMh
 - Buy Me a Coffee → https://www.buymeacoffee.com/faisalramdan17
 - My Portfolio → https://codecanyon.net/user/codingyourlife/portfolio
 
-## SOCIAL MEDIA
+## About ME
 - Personal → https://www.instagram.com/faisalramdan17 
 - Github →https://github.com/faisalramdan17
 - LinkedIn → https://www.linkedin.com/in/faisalramdan17
 
-## LEARN MORE
+## Learn More
 - Facebook → https://www.facebook.com/codingyourlife.id
 - Instagram → https://www.instagram.com/codingyourlife.id
 - Courses → https://www.codingyourlife.id
