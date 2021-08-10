@@ -29,10 +29,24 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Social Media
-- Buy Me a Coffee: https://www.buymeacoffee.com/faisalramdan17
-- Website: https://codingyourlife.id
-- GitHub: https://github.com/faisalramdan17
-- Facebook : https://www.facebook.com/codingyourlife.id
-- Instagram: https://instagram.com/faisalramdan17 & https://instagram.com/codingyourlife.id
-- LinkedIn: https://www.linkedin.com/in/faisalramdan17
+## SUPPORT ME
+
+Our mission at Coding Your Life is to help purpose driven Flutter developers go full-time doing what they love and making an impact through coding. We achieve this with useful Flutter tips and clean UI design apps.
+
+SUBSRIBE → https://bit.ly/3ymJhMh
+
+- Download My Apps → https://codingyourlife.gumroad.com
+- Buy Me a Coffee → https://www.buymeacoffee.com/faisalramdan17
+- My Portfolio → https://codecanyon.net/user/codingyourlife/portfolio
+
+## SOCIAL MEDIA
+- Personal → https://www.instagram.com/faisalramdan17 
+- Github →https://github.com/faisalramdan17
+- LinkedIn → https://www.linkedin.com/in/faisalramdan17
+
+## LEARN MORE
+- Facebook → https://www.facebook.com/codingyourlife.id
+- Instagram → https://www.instagram.com/codingyourlife.id
+- Courses → https://www.codingyourlife.id
+
+Thanks!
