@@ -7,7 +7,8 @@
         {
             "name": "flutter_tips_tricks_1",
             "request": "launch",
-            "type": "dart"
+            "type": "dart",
+            "program": "lib/main.dart",
         },
         {
             "name": "flutter_tips_tricks_1 (profile mode)",
